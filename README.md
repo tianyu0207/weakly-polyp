@@ -4,4 +4,9 @@ Official code for 'Contrastive Transformer-based Multiple Instance Learning for 
 
 Early Accepted to MICCAI 2022. 
 
-Code and Dataset will be available later. 
+
+Dataset can be downloaded through this link:
+https://drive.google.com/file/d/19jRx9WjLviCGpqa_ShXVSnGG0rfr2GeV/view?usp=sharing
+
+
+Code will be available early October. 
