@@ -2,7 +2,7 @@
 
 > [**MICCAI'22 Early Accept**] [**Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection**](https://arxiv.org/pdf/2203.12121.pdf)
 >
-> by [Yu Tian*](https://yutianyt.com/), [Guansong Pang](https://sites.google.com/site/gspangsite/home?authuser=0), [Fengbei Liu](https://fbladl.github.io/), Yuyuan Liu, Chong Wang, Yuanhong Chen, Johan W Verjans,  [Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/).
+> by [Yu Tian](https://yutianyt.com/), [Guansong Pang](https://sites.google.com/site/gspangsite/home?authuser=0), [Fengbei Liu](https://fbladl.github.io/), Yuyuan Liu, Chong Wang, Yuanhong Chen, Johan W Verjans,  [Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/).
 >
 
 ![image](https://user-images.githubusercontent.com/19222962/193112248-dbc4489b-4618-4c93-8b20-3ed671c0f4d3.png)
