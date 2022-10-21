@@ -12,8 +12,17 @@
 Please download the dataset through this [link](https://drive.google.com/file/d/19jRx9WjLviCGpqa_ShXVSnGG0rfr2GeV/view?usp=sharing
 ).
 
-### Code will be available early October. 
+### Training 
+After downloading the dataset and extracting the I3D features using this [**repo**](https://github.com/Tushar-N/pytorch-resnet3d), simply run the following command: 
+```shell
+python main_transformer.py
+```
 
+### Inference 
+For inference, after setting the path of the best checkpoint, then run the following command: 
+```shell
+python inference.py
+```
 
 ### Citation
 
