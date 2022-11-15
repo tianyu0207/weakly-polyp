@@ -9,8 +9,7 @@
 
 ### Dataset
 
-Please download the dataset through this [link](https://drive.google.com/file/d/19jRx9WjLviCGpqa_ShXVSnGG0rfr2GeV/view?usp=sharing
-).
+Please download the dataset through this [link](https://drive.google.com/file/d/1PTQdluckHm7aeVzgRHuoTTpz-Sum7xmF/view?usp=sharing).
 
 ### Training 
 After downloading the dataset and extracting the I3D features using this [**repo**](https://github.com/Tushar-N/pytorch-resnet3d), simply run the following command: 
