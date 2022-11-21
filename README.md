@@ -9,7 +9,9 @@
 
 ### Dataset
 
-Please download the pre-processed i3d features of the dataset through this [link](https://drive.google.com/file/d/1-2tYeNybZx2Trrj-76MThq__Tf71eKD3/view?usp=sharing) and the original colonoscopy videos can be found in this [link](https://drive.google.com/file/d/1PTQdluckHm7aeVzgRHuoTTpz-Sum7xmF/view?usp=sharing).
+Please download the pre-processed i3d features of the dataset through this [link](https://drive.google.com/file/d/1-2tYeNybZx2Trrj-76MThq__Tf71eKD3/view?usp=sharing) 
+>
+The original colonoscopy videos can be found in this [link](https://drive.google.com/file/d/1PTQdluckHm7aeVzgRHuoTTpz-Sum7xmF/view?usp=sharing).
 
 ### Training 
 After downloading the dataset and extracting the I3D features using this [**repo**](https://github.com/Tushar-N/pytorch-resnet3d), simply run the following command: 
