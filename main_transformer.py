@@ -5,7 +5,7 @@ from utils import save_best_record
 from cvt_model_1d import get_model_transformer
 from dataset import Dataset
 from train_transformer import train
-from test_10crop import test
+from test_transformer import test
 import option
 from tqdm import tqdm
 from config import *
