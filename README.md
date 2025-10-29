@@ -9,7 +9,7 @@
 
 ### Dataset
 
-Please download the pre-processed i3d features of the dataset through this [link](https://drive.google.com/file/d/1-2tYeNybZx2Trrj-76MThq__Tf71eKD3/view?usp=sharing) 
+Please download the pre-processed i3d features of the dataset through this [link](https://drive.google.com/file/d/15VlBw0erQmP6HmYIGYaqyfCBMKzpA5R2/view?usp=drive_link) 
 >
 The original colonoscopy videos can be found in this [link](https://drive.google.com/file/d/1PTQdluckHm7aeVzgRHuoTTpz-Sum7xmF/view?usp=sharing).
 
